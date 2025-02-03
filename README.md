@@ -1,6 +1,11 @@
 ## Staffing Matcher
 This is a POC web application that matches IS members to projects based on their skillset and availability. Built with Azure OpenAI and NextJS.
 
+Sample input/output:
+
+![Sample input from user](assets/form_screenshot.jpg)
+![Sample output from AI model](assets/output-screenshot.jpg)
+
 ## Getting Started
 
 Run the development server:
